@@ -6,16 +6,10 @@
 
 #Derp Flags
 DERPFEST_BUILD_TYPE := Official
-DERP_VERSION_APPEND_TIME_OF_DAY := true
-EXTRA_UDFPS_ICONS := true
-OTA_EXTRA_BRANCHES := true
 
-# Core Packages
+# Extra Packages
 PRODUCT_PACKAGES += \
-    Parts
-
-# Remove Packages
-PRODUCT_PACKAGES += \
+    Parts \
     RemovePackages
 
 # ViPER4AndroidFX
