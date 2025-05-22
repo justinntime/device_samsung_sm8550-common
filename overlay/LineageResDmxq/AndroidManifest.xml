@@ -3,7 +3,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="lineageos.platform.overlay.dm2q">
+    package="lineageos.platform.overlay.dmxq">
 
     <overlay
         android:isStatic="true"

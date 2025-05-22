@@ -251,7 +251,7 @@ PRODUCT_PACKAGES += \
     FrameworksResCommon \
     FrameworksResSamsung \
     FrameworksResTarget \
-    LineageResDm2q \
+    LineageResDmxq \
     SettingsResCommon \
     SettingsResSamsung \
     SystemUIResCommon \
